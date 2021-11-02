@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 87913462}
   - component: {fileID: 87913461}
   m_Layer: 0
-  m_Name: Dinding (4)
+  m_Name: Wall (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -138,8 +138,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 87913459}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22, y: 4.05, z: 9.9257}
-  m_LocalScale: {x: 74.74, y: 0.267, z: 1}
+  m_LocalPosition: {x: 0.17, y: 3.949, z: 9.9257}
+  m_LocalScale: {x: 85.726776, y: 0.37278506, z: 1}
   m_Children: []
   m_Father: {fileID: 1447173719}
   m_RootOrder: 3
@@ -230,7 +230,7 @@ GameObject:
   - component: {fileID: 431307286}
   - component: {fileID: 431307285}
   m_Layer: 0
-  m_Name: Dinding (2)
+  m_Name: Wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -244,8 +244,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 431307283}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.94, y: -0.511, z: 0}
-  m_LocalScale: {x: 2.54, y: 5.33, z: 1}
+  m_LocalPosition: {x: 12.643, y: -0.711, z: 0}
+  m_LocalScale: {x: 2.6263602, y: 4.9622297, z: 1}
   m_Children: []
   m_Father: {fileID: 1447173719}
   m_RootOrder: 1
@@ -336,7 +336,7 @@ GameObject:
   - component: {fileID: 479933462}
   - component: {fileID: 479933461}
   m_Layer: 0
-  m_Name: Dinding (3)
+  m_Name: Wall (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -350,8 +350,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 479933459}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22, y: -5.51, z: 9.9257}
-  m_LocalScale: {x: 74.74, y: 0.267, z: 1}
+  m_LocalPosition: {x: 0.133, y: -5.34, z: 9.9257}
+  m_LocalScale: {x: 85.12886, y: 0.39372978, z: 1}
   m_Children: []
   m_Father: {fileID: 1447173719}
   m_RootOrder: 2
@@ -721,7 +721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1447173719}
   m_Layer: 0
-  m_Name: Dinding
+  m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -757,7 +757,7 @@ GameObject:
   - component: {fileID: 1872255588}
   - component: {fileID: 1872255587}
   m_Layer: 0
-  m_Name: Dinding (1)
+  m_Name: Wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -771,8 +771,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1872255585}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.59, y: -0.43, z: 0}
-  m_LocalScale: {x: 2.02, y: 5.22, z: 1}
+  m_LocalPosition: {x: -12.22, y: -0.706, z: 0}
+  m_LocalScale: {x: 2.82396, y: 4.9924393, z: 1}
   m_Children: []
   m_Father: {fileID: 1447173719}
   m_RootOrder: 0

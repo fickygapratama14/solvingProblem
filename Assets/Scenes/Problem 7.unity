@@ -178,7 +178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.19131923, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -606,7 +606,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1835112961}
   - component: {fileID: 1835112960}
-  - component: {fileID: 1835112959}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -614,24 +613,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1835112959
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1835112958}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf3aaf4afaef39e48867c3b596374d9f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  segienam: {fileID: 4664061376026116576, guid: 5274ad9606c276b4f9ee47b6eaf2c125,
-    type: 3}
-  xMin: -7.3
-  xMax: 7.13
-  yMin: 3.63
-  yMax: -3.19
 --- !u!114 &1835112960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -709,7 +690,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.13207549, g: 0.026788898, b: 0.026788898, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -729,7 +710,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Skor :'
+  m_Text: 'Score:'
 --- !u!222 &2046021632
 CanvasRenderer:
   m_ObjectHideFlags: 0
